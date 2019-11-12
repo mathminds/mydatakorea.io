@@ -178,7 +178,7 @@ class Index extends React.Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://forms.gle/JGYhDRgojZyLwJvS8" className="button special">
+                  <a href="/forms" className="button special">
                     회원가입 신청
                   </a>
                 </li>
