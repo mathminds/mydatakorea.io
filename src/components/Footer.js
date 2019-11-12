@@ -1,20 +1,22 @@
-import React from 'react'
-import { Link } from 'gatsby'
+import React from "react";
+import { Link } from "gatsby";
 
-import logo from '../assets/images/logo.svg'
+import logo from "../assets/images/logo.svg";
 
 const Footer = props => (
     <footer id="footer">
         <section>
             <h2>A MyData Global local hub</h2>
             <p>
-                A registered non-profit association and a global network whose mission is to empower individuals by improving their right to self-determination regarding their personal data.
-      </p>
+                A registered non-profit association and a global network whose
+                mission is to empower individuals by improving their right to
+                self-determination regarding their personal data.
+            </p>
             <ul className="actions">
                 <li>
                     <a href="https://mydata.org" className="button">
                         Learn More
-          </a>
+                    </a>
                 </li>
             </ul>
         </section>
@@ -22,27 +24,36 @@ const Footer = props => (
             <h2>MyData Korea 허브</h2>
             <dl className="alt">
                 <dt>주소</dt>
-                <dd>220 Yeongsin-ro, Yeongdeungpo-gu  &bull; Seoul &bull; Korea</dd>
+                <dd>서울특별시 영등포구 영신로 220, 07228</dd>
                 <dt>전화</dt>
-                <dd>(+82-2) 786-7281</dd>
+                <dd>(+82-2) 2655-9626</dd>
                 <dt>Email</dt>
                 <dd>
-                    <a href="#">korea@mydata.org</a>
+                    <a href="mailto:korea@mydata.org">korea@mydata.org</a>
                 </dd>
             </dl>
             <ul className="icons">
                 <li>
-                    <a href="https://twitter.com/MyDataKorea" className="icon fa-twitter alt">
+                    <a
+                        href="https://twitter.com/MyDataKorea"
+                        className="icon fa-twitter alt"
+                    >
                         <span className="label">Twitter</span>
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.facebook.com/MyData-Korea-119211012798977" className="icon fa-facebook alt">
+                    <a
+                        href="https://www.facebook.com/MyData-Korea-119211012798977"
+                        className="icon fa-facebook alt"
+                    >
                         <span className="label">Facebook</span>
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.instagram.com/mydatakorea/" className="icon fa-instagram alt">
+                    <a
+                        href="https://www.instagram.com/mydatakorea/"
+                        className="icon fa-instagram alt"
+                    >
                         <span className="label">Instagram</span>
                     </a>
                 </li>
@@ -55,8 +66,8 @@ const Footer = props => (
         </section>
         <p className="copyright">
             &copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.
-    </p>
+        </p>
     </footer>
-)
+);
 
-export default Footer
+export default Footer;

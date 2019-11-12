@@ -1,6 +1,6 @@
 import React from 'react'
 
-import logo from '../assets/images/mydata/mydatakorea-colour-down.png'
+import logo from '../assets/images/mydata/mydatakorea-horizontal.png'
 
 const Header = props => (
   <header id="header" className="alt">
