@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MyData Local Hub Gatsby Starter Website
 
 This starter based on the Stellar site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
@@ -21,4 +22,7 @@ Run `gatsby develop` in the terminal to start the dev site.
 =======
 # MyDataKorea
 Working website for MyData Korea hub
+>>>>>>> origin/master
+=======
+# mydatakorea.io
 >>>>>>> origin/master
